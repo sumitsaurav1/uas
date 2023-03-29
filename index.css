@@ -133,8 +133,8 @@ a:hover{
 }
 .section3-container{
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction:row;
+    Justify-content:center;
 }
 .section3{
    display: flex;
